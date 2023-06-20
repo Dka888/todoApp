@@ -19,3 +19,5 @@ API: Backend server to handle data storage and retrieval.
 TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
 SASS: Syntactically Awesome Style Sheets, a CSS extension language.
 HTML: Markup language for structuring web pages.
+
+Also you can see todo app without api and based on localStorage and using react-router-dom here: [DEMO](https://dka888.github.io/todo-app-project-react/)
